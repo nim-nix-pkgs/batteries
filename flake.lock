@@ -12,11 +12,11 @@
       },
       "locked": {
         "dir": "main",
-        "lastModified": 1662254363,
-        "narHash": "sha256-ixvbkQuCn0Knf3yo0aiiLBluzLMQHKpVUxVhG1zTEeY=",
+        "lastModified": 1667322161,
+        "narHash": "sha256-NqZcNu3bhDeHpmAC02V61FTe1nc/ErVnUfDk+hbJ8Xw=",
         "owner": "nim-nix-pkgs",
         "repo": "batteries",
-        "rev": "03630ead0dfadd68a834963925e2cf00a9fc7dae",
+        "rev": "eb4723147717f1ce587886863235a54a6146369d",
         "type": "github"
       },
       "original": {
@@ -50,11 +50,11 @@
     },
     "nixpkgs": {
       "locked": {
-        "lastModified": 1667110639,
-        "narHash": "sha256-4FbPESZ5LbqQxkJJJBAfk/zKgF9h/4kyUwjjpJwYlbc=",
+        "lastModified": 1667199707,
+        "narHash": "sha256-I2Js3Y7gUyVSEXPULHlBoRek4Lh85vnevdS6mdvDNLI=",
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "f38a1f04d1bec1feb61fd101a0539ae2002a7087",
+        "rev": "ced197be72099edcfa68ebed8b87af7b04851f45",
         "type": "github"
       },
       "original": {
