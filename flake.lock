@@ -12,11 +12,11 @@
       },
       "locked": {
         "dir": "main",
-        "lastModified": 1668748668,
-        "narHash": "sha256-/tnWXVtIBzOZ1viBZFy/tm9zVnzWyX5m33VVts/inX4=",
+        "lastModified": 1668754446,
+        "narHash": "sha256-SxpRo+C/z3hns51/MCtfVcPLhpc3JNSBs8ku7oaEhXg=",
         "owner": "nim-nix-pkgs",
         "repo": "batteries",
-        "rev": "e0abd51f64a57b471a8711176d1c0d28fa044ae3",
+        "rev": "bbe285035b54396fdae2bcc2d9535326ca22cc81",
         "type": "github"
       },
       "original": {
